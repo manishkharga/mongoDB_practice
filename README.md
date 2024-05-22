@@ -1,2 +1,2 @@
 # mongoDB_practice
-mongoDb basic CRUD operation
+mongoDb basi CRUD operation,array operator and aggregation
